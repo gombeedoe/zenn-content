@@ -3,7 +3,7 @@ title: "paginationのためのURL paramをZodで数値にする"
 emoji: "📘"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Zod"]
-published: false
+published: true
 ---
 
 # Zod で pagination のための param を Zod で検証したい動機
