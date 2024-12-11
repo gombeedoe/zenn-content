@@ -7,6 +7,8 @@ publication_name: "galapagos"
 published: false
 ---
 
+この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://zenn.dev/galapagos/articles/bb5713c3a5d147)の13日の金曜日の記事です。
+
 # Chrome DevToolsの使い方はTipsの集合
 
 Chrome DevTools（以下、DevTools）は何かと便利な機能があるのですが、新機能も次々に出るので、体系的に使い方がまとまっているというより、個別のTipsを組み合わせて各々が独自の方法で使っているのかなあという印象です。
