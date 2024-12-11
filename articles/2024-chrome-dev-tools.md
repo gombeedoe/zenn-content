@@ -3,6 +3,7 @@ title: "2024年にお世話になったChrome DevToolsの機能"
 emoji: "🔨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["chrome", "web"]
+publication_name: "galapagos"
 published: false
 ---
 
