@@ -21,7 +21,7 @@ https://developer.chrome.com/docs/devtools/overrides?hl=ja
 
 2024年で一番よく使った（使いこなしていた）と思う機能は、フェッチリクエストのレスポンスをオーバーライドする機能でした。
 
-上記ドキュメント内の動画、[Prototype new UI design](https://youtu.be/KxjGYcHZ_uI?t=101&si=rU3NwD53q0kAyPxB)にあるようにstatusCodeが404でもオーバーライドできるので、存在しないエンドポンイトでもオーバーライドしてフロントの開発を進めることができます。
+上記ドキュメント内の動画、[Prototype new UI design](https://youtu.be/KxjGYcHZ_uI?t=101&si=rU3NwD53q0kAyPxB)にあるようにstatusCodeが404でもオーバーライドできるので、存在しないエンドポイントでもオーバーライドしてフロントの開発を進めることができます。
 
 主には、APIの開発とほぼ同時進行でフロントの開発を進める時に活躍した機能でした。ローカルのフォルダを指定すると、そこにオーバーライド用のファイルが保存され、リロードしてもローカルファイルを読み取るので、一度保存すれば、DevToolsを開いている間はオーバーライドのモックを使うことができます。（DevToolsを閉じても、再度開けばオーバーライドは保持されています。）
 
