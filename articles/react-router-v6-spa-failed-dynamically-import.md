@@ -4,7 +4,8 @@ emoji: "🔗"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["react", "reactrouter", "vite"]
 publication_name: "galapagos"
-published: false
+published: true
+published_at: 2024-12-14
 ---
 
 この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://qiita.com/advent-calendar/2024/galapagos)の14日目の記事です。
