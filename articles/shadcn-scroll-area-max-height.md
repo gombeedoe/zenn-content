@@ -7,7 +7,7 @@ publication_name: "galapagos"
 published: false
 ---
 
-この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://zenn.dev/galapagos/articles/bb5713c3a5d147)の15日目の記事です。
+この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://qiita.com/advent-calendar/2024/galapagos)の15日目の記事です。
 
 日頃からお世話になっているshadcn/uiですが、時々痒いところに手が届かない場面があり、カスタマイズして利用しています。
 

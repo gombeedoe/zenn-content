@@ -7,7 +7,7 @@ publication_name: "galapagos"
 published: true
 ---
 
-この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://zenn.dev/galapagos/articles/bb5713c3a5d147)の13日の金曜日の記事です。
+この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://qiita.com/advent-calendar/2024/galapagos)の13日の金曜日の記事です。
 
 # Chrome DevToolsの使い方はTipsの集合
 
