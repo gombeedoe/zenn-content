@@ -4,7 +4,7 @@ emoji: "🔨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["chrome", "web"]
 publication_name: "galapagos"
-published: false
+published: true
 ---
 
 この記事は[株式会社ガラパゴス（有志）アドベントカレンダー2024](https://zenn.dev/galapagos/articles/bb5713c3a5d147)の13日の金曜日の記事です。
