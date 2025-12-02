@@ -4,7 +4,7 @@ emoji: "⏰"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["html", "input", "time", "zod", "reacthookform"]
 publication_name: "galapagos"
-published: false
+published: true
 ---
 
 この記事は[株式会社ガラパゴス（有志）アドベントカレンダー 2025](https://qiita.com/advent-calendar/2025/galapagos)の 2 日目の記事です。
