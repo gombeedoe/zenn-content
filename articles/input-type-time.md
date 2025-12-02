@@ -2,7 +2,7 @@
 title: '<input type="time"> を諦めない'
 emoji: "⏰"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["html", "input", "time", "react", "reacthookform"]
+topics: ["html", "input", "time", "zod", "reacthookform"]
 publication_name: "galapagos"
 published: false
 ---
