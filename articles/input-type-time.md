@@ -9,7 +9,7 @@ published: false
 
 この記事は[株式会社ガラパゴス（有志）アドベントカレンダー 2025](https://qiita.com/advent-calendar/2025/galapagos)の 2 日目の記事です。
 
-# <input type="time"> の使いどころと仕様
+## <input type="time"> の使いどころと仕様
 
 フォームの時間入力要素として、`<input type="time">` を使うと、`type="text"` よりも入力値を限定できるようになり、入力値の整合性の考慮がグッと減ります。
 
@@ -41,7 +41,7 @@ published: false
 
 > 値は常にゼロが先行する 24 時間表記の HH:mm または HH:mm:ss に書式化された時刻です。
 >
-> [MDN のドキュメント](<https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time)>)
+> [MDN のドキュメント](https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time))
 
 ### `valueAsNumber` プロパティ
 
@@ -50,7 +50,7 @@ published: false
 
 > The algorithm to convert a string to a number, given a string input, is as follows: If parsing a time from input results in an error, then return an error; otherwise, return the number of milliseconds elapsed from midnight to the parsed time on a day with no time changes.
 >
-> [仕様](<https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time)>)
+> [仕様](https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time))
 
 値が未入力の場合は `NaN` が返されるため、`isNaN()` などで入力の有無を判定できます。
 
@@ -67,7 +67,7 @@ new Date(Date.UTC(1970, 0, 1, 14, 30, 0));
 
 > The algorithm to convert a string to a Date object, given a string input, is as follows: If parsing a time from input results in an error, then return an error; otherwise, return a new Date object representing the parsed time in UTC on 1970-01-01.
 >
-> [仕様](<https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time)>)
+> [仕様](https://html.spec.whatwg.org/multipage/input.html#time-state-(type=time))
 
 #### タイムゾーンの注意点
 
